@@ -24,7 +24,8 @@ body {
 
 .nas {
 	position: absolute;
-	max-width: 530px;
+	max-width: 675px;
+		padding: 27px;
 }
 
 .sidenav {
