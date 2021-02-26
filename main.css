@@ -1,0 +1,41 @@
+body {
+	background-color: #fdbc00;
+	margin: 11vw;
+	margin-top: 2vw;
+	margin-bottom: 2vw;
+}
+
+.header {
+	font-family: 'Fascinate', cursive;
+	font-size: 27px;
+	text-shadow: 2px 2px red;
+
+}
+
+.album {
+	display: inline-block;
+	padding: 27px;
+	padding-bottom: 32px;
+	font-size: 16px;
+	text-align: center;
+	font-family: 'Fredoka One', cursive;
+	text-shadow: 2px 2px white;
+}
+
+.nas {
+	position: absolute;
+	max-width: 530px;
+}
+
+.sidenav {
+	font-family: 'Fascinate', cursive;
+	font-size: 16px;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: red;
+}
